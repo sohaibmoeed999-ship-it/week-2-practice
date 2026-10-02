@@ -1,2 +1,2 @@
-Hello 
-This is my week 2 git practice
+Hello
+This is my Week 2 Git practice.
